@@ -1,6 +1,6 @@
 # ainaraharison.github.io
 
-# 🎨 Portfolio de [Aina RAHARISON]
+# 🎨 Mon Portfolio 
 
 Bienvenue sur mon portfolio personnel ! Ce dépôt présente une sélection de mes projets réalisés en tant qu'ingénieur(e) passionné(e) par la vision par ordinateur, les systèmes embarqués, et l'intelligence artificielle. Mon objectif est de concevoir des solutions robustes, exploratoires et à fort impact, mêlant rigueur scientifique et créativité technique.
 
