@@ -1,24 +1,25 @@
 # ainaraharison.github.io
 
-# 🎨 Mon Portfolio 
+# 🎨 My Portfolio
 
-Bienvenue sur mon portfolio personnel ! Ce dépôt présente une sélection de mes projets réalisés en tant qu'ingénieur(e) passionné(e) par la vision par ordinateur, les systèmes embarqués, et l'intelligence artificielle. Mon objectif est de concevoir des solutions robustes, exploratoires et à fort impact, mêlant rigueur scientifique et créativité technique.
+Welcome to my personal portfolio! This repository showcases a selection of projects I’ve developed as a passionate engineer in computer vision, embedded systems, and artificial intelligence. My goal is to design robust, exploratory, and high-impact solutions, combining scientific rigor with technical creativity.
 
-## 🧭 Objectifs du portfolio
+## 🧭 Portfolio Objectives
 
-- **Centraliser mes projets personnels, académiques et professionnels**
-- **Documenter mes apprentissages, mes méthodes et mes résultats**
-- **Partager ma démarche de recherche et d'ingénierie logicielle**
-- **Faciliter l'accès à mes réalisations pour des recruteurs, collaborateurs ou pairs**
+- **Centralize my personal, academic, and professional projects**
+- **Document my learnings, methods, and results**
+- **Share my research and software engineering approach**
+- **Facilitate access to my work for recruiters, collaborators, or peers**
 
 ---
 
-## 🗂️ Table des projets
+## 🗂️ Project Table
 
-| Projet | Description | Technologies principales |
-|--------|-------------|--------------------------|
-| [🔍 Analyse d'images microscopiques](./mia-analyse-images/) | Exploration d’images de minéraux via PCA, clustering et inversion de contraste | Python, NumPy, Scikit-learn, Matplotlib |
-| [🚗 Synthèse de données de trafic](./synthetic-traffic/) | Génération de scènes simulées avec CARLA pour l'entraînement de modèles IA | CARLA, Python, OpenCV |
-| [🧠 Classification de tissus biologiques](./tissue-classification/) | Pipeline de traitement et d'apprentissage supervisé pour des images médicales | Scikit-learn, Pandas, Matplotlib |
-| [📊 Dashboard de visualisation](./data-dashboard/) | Interface dynamique de visualisation des performances des modèles | Dash, Plotly, Flask |
-| [📁 Plugin GIMP de mesure ROI](./gimp-roi-measure/) | Plugin pour extraire automatiquement les dimensions d'une région d’intérêt | Python, GIMP, PyGObject |
+| Project | Description | Key Technologies |
+|--------|-------------|------------------|
+| [🔍 Microscopic Image Analysis](./mia-analyse-images/) | Exploration of mineral images using PCA, clustering, and contrast inversion | Python, NumPy, Scikit-learn, Matplotlib |
+| [🚗 Synthetic Traffic Data Generation](./synthetic-traffic/) | Simulated scene generation with CARLA for AI model training | CARLA, Python, OpenCV |
+| [🧠 Biological Tissue Classification](./tissue-classification/) | Processing and supervised learning pipeline for medical images | Scikit-learn, Pandas, Matplotlib |
+| [📊 Visualization Dashboard](./data-dashboard/) | Interactive dashboard for model performance visualization | Dash, Plotly, Flask |
+| [📁 GIMP ROI Measurement Plugin](./gimp-roi-measure/) | Plugin to automatically extract dimensions of a region of interest | Python, GIMP, PyGObject |
+
