@@ -13,7 +13,7 @@ Welcome to my personal portfolio! This repository showcases a selection of proje
 
 ---
 
-## 🗂️ Project Table
+## 🗂️ My Project 
 
 | Project | Description | Key Technologies |
 |--------|-------------|------------------|
