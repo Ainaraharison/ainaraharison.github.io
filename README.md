@@ -18,7 +18,7 @@ Welcome to my personal portfolio! This repository showcases a selection of proje
 | Project | Description | Key Technologies |
 |--------|-------------|------------------|
 | [🔍 Microscopic Image Analysis](https://github.com/Ainaraharison/ainaraharison.github.io/tree/1-mineral-data-mining) | Exploration of mineral images using PCA, clustering, and contrast inversion | Python, NumPy, Scikit-learn, Matplotlib |
-| [🚗 Synthetic Traffic Data Generation](./synthetic-traffic/) | Simulated scene generation with CARLA for AI model training | CARLA, Python, OpenCV |
+| [🚗 Synthetic Traffic Data Generation](https://github.com/Ainaraharison/ainaraharison.github.io/tree/Traffic-Data-Generation) | Simulated scene generation with CARLA for AI model training | CARLA, Python, OpenCV |
 | [🧠 Biological Tissue Classification](./tissue-classification/) | Processing and supervised learning pipeline for medical images | Scikit-learn, Pandas, Matplotlib |
 | [📊 Visualization Dashboard](./data-dashboard/) | Interactive dashboard for model performance visualization | Dash, Plotly, Flask |
 | [📁 GIMP ROI Measurement Plugin](./gimp-roi-measure/) | Plugin to automatically extract dimensions of a region of interest | Python, GIMP, PyGObject |
